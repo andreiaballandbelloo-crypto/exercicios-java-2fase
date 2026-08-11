@@ -30,7 +30,9 @@ public class ExercicioQuatro {
         
         System.out.println("Soma : " + soma);
 
+        scanner.close();
     }
+
 }
 
 
